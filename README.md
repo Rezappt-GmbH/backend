@@ -1,5 +1,7 @@
 # 🌟 Rezappt Backend
 
+![GitHub Copilot Allowed](https://img.shields.io/badge/GitHub%20Copilot-Allowed-brightgreen?logo=github)
+
 Welcome to the **Rezappt Backend** repository! This is the powerhouse that drives the backend operations for **Rezappt**, an innovative application that allows users to store, maintain, and share their own recipes. Users can vote on recipes, and the platform also supports exporting recipes as PDFs, making it easy to share your culinary creations.
 
 ---
